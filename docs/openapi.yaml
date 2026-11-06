@@ -5,6 +5,8 @@ info:
   version: 1.0.0
 
 servers:
+  - url: https://task-api-v261.onrender.com
+    description: Production server (Render)
   - url: http://localhost:3000
     description: Local development server
 
